@@ -1,0 +1,18 @@
+[
+  {
+    "model": "ifag.category",
+    "pk": 1,
+    "fields": {
+      "name": "Agricultura",
+      "default": true
+    }
+  },
+  {
+    "model": "ifag.category",
+    "pk": 2,
+    "fields": {
+      "name": "Pecu\u00e1ria",
+      "default": false
+    }
+  }
+]

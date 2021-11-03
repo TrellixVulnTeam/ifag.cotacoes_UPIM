@@ -1,0 +1,236 @@
+[
+  {
+    "model": "ifag.indicator",
+    "pk": 1,
+    "fields": {
+      "name": "Soja Balc\u00e3o",
+      "category": 1,
+      "unit": 2,
+      "slug": "soja-balcao",
+      "group": 1,
+      "group_short_name": null,
+      "group_order": null
+    }
+  },
+  {
+    "model": "ifag.indicator",
+    "pk": 2,
+    "fields": {
+      "name": "Soja Dispon\u00edvel",
+      "category": 1,
+      "unit": 2,
+      "slug": "soja-disponivel",
+      "group": 1,
+      "group_short_name": null,
+      "group_order": null
+    }
+  },
+  {
+    "model": "ifag.indicator",
+    "pk": 3,
+    "fields": {
+      "name": "Milho",
+      "category": 1,
+      "unit": 2,
+      "slug": "milho",
+      "group": null,
+      "group_short_name": null,
+      "group_order": null
+    }
+  },
+  {
+    "model": "ifag.indicator",
+    "pk": 4,
+    "fields": {
+      "name": "Girassol",
+      "category": 1,
+      "unit": 2,
+      "slug": "girassol",
+      "group": null,
+      "group_short_name": null,
+      "group_order": null
+    }
+  },
+  {
+    "model": "ifag.indicator",
+    "pk": 5,
+    "fields": {
+      "name": "Sorgo",
+      "category": 1,
+      "unit": 2,
+      "slug": "sorgo",
+      "group": null,
+      "group_short_name": null,
+      "group_order": null
+    }
+  },
+  {
+    "model": "ifag.indicator",
+    "pk": 6,
+    "fields": {
+      "name": "Soja Futuro",
+      "category": 1,
+      "unit": 2,
+      "slug": "soja-futuro",
+      "group": null,
+      "group_short_name": null,
+      "group_order": null
+    }
+  },
+  {
+    "model": "ifag.indicator",
+    "pk": 7,
+    "fields": {
+      "name": "Feij\u00e3o",
+      "category": 1,
+      "unit": 2,
+      "slug": "feijao",
+      "group": null,
+      "group_short_name": null,
+      "group_order": null
+    }
+  },
+  {
+    "model": "ifag.indicator",
+    "pk": 8,
+    "fields": {
+      "name": "Algod\u00e3o",
+      "category": 1,
+      "unit": 1,
+      "slug": "algodao",
+      "group": null,
+      "group_short_name": null,
+      "group_order": null
+    }
+  },
+  {
+    "model": "ifag.indicator",
+    "pk": 9,
+    "fields": {
+      "name": "Boi Gordo - \u00c0 vista",
+      "category": 2,
+      "unit": 1,
+      "slug": "boi-gordo",
+      "group": null,
+      "group_short_name": null,
+      "group_order": null
+    }
+  },
+  {
+    "model": "ifag.indicator",
+    "pk": 10,
+    "fields": {
+      "name": "Vaca Gorda - \u00c0 vista",
+      "category": 2,
+      "unit": 1,
+      "slug": "vaca-gorda",
+      "group": null,
+      "group_short_name": null,
+      "group_order": null
+    }
+  },
+  {
+    "model": "ifag.indicator",
+    "pk": 11,
+    "fields": {
+      "name": "Boi Gordo Rastreado - \u00c0 vista",
+      "category": 2,
+      "unit": 1,
+      "slug": "boi-gordo-rastreado",
+      "group": null,
+      "group_short_name": null,
+      "group_order": null
+    }
+  },
+  {
+    "model": "ifag.indicator",
+    "pk": 12,
+    "fields": {
+      "name": "Boi Gordo Castrado - \u00c0 vista",
+      "category": 2,
+      "unit": 1,
+      "slug": "boi-gordo-castrado",
+      "group": null,
+      "group_short_name": null,
+      "group_order": null
+    }
+  },
+  {
+    "model": "ifag.indicator",
+    "pk": 13,
+    "fields": {
+      "name": "Boi Gordo Castrado Rastreado - \u00c0 vista",
+      "category": 2,
+      "unit": 1,
+      "slug": "boi-gordo-castrado-rastreado",
+      "group": null,
+      "group_short_name": null,
+      "group_order": null
+    }
+  },
+  {
+    "model": "ifag.indicator",
+    "pk": 14,
+    "fields": {
+      "name": "Boi Gordo - 30 dias",
+      "category": 2,
+      "unit": 1,
+      "slug": "boi-gordo-30-dias",
+      "group": null,
+      "group_short_name": null,
+      "group_order": null
+    }
+  },
+  {
+    "model": "ifag.indicator",
+    "pk": 15,
+    "fields": {
+      "name": "Boi Gordo Castrado - 30 dias",
+      "category": 2,
+      "unit": 1,
+      "slug": "boi-gordo-castrado-30-dias",
+      "group": null,
+      "group_short_name": null,
+      "group_order": null
+    }
+  },
+  {
+    "model": "ifag.indicator",
+    "pk": 16,
+    "fields": {
+      "name": "Boi Gordo Castrado Rastreado - 30 dias",
+      "category": 2,
+      "unit": 1,
+      "slug": "boi-gordo-castrado-rastreado-30-dias",
+      "group": null,
+      "group_short_name": null,
+      "group_order": null
+    }
+  },
+  {
+    "model": "ifag.indicator",
+    "pk": 17,
+    "fields": {
+      "name": "Boi Gordo Rastreado - 30 dias",
+      "category": 2,
+      "unit": 1,
+      "slug": "boi-gordo-rastreado-30-dias",
+      "group": null,
+      "group_short_name": null,
+      "group_order": null
+    }
+  },
+  {
+    "model": "ifag.indicator",
+    "pk": 18,
+    "fields": {
+      "name": "Vaca Gorda - 30 dias",
+      "category": 2,
+      "unit": 1,
+      "slug": "vaca-gorda-30-dias",
+      "group": null,
+      "group_short_name": null,
+      "group_order": null
+    }
+  }
+]

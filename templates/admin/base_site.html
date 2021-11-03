@@ -1,0 +1,11 @@
+{% extends "ifag/original_django_base_site.html" %}
+{% load i18n static jet_tags %}
+
+{% block extrastyle %}
+    <link rel="stylesheet" type="text/css"
+          href="{% static "ifag/style.css" %}"/>
+{% endblock %}
+
+{% block branding %}
+    <h1 id="site-name">IFAG ECONÔMICO</h1>
+{% endblock %}

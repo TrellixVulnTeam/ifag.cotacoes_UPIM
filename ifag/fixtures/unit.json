@@ -1,0 +1,26 @@
+[
+  {
+    "model": "ifag.unit",
+    "pk": 1,
+    "fields": {
+      "name": "Arroba",
+      "symbol": "@"
+    }
+  },
+  {
+    "model": "ifag.unit",
+    "pk": 2,
+    "fields": {
+      "name": "Saca 50 Kg",
+      "symbol": "sc"
+    }
+  },
+  {
+    "model": "ifag.unit",
+    "pk": 3,
+    "fields": {
+      "name": "Saco 30 Kg",
+      "symbol": "sc30"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+{% extends "admin/change_list.html" %}
+{% load i18n admin_urls static admin_list jet_tags propeller ifag_tags %}
+
+{% block title %}Aprovar Cotações{% endblock %}
+
+{% block result_list %}
+    <!-- lista de resultados-->
+    {% result_list cl %}
+    <style>
+        #result_list tbody td:nth-child(6) {
+            text-align: right;
+        }
+    </style>
+    <!-- /barra de ações -->
+
+
+    <!-- barra de ações -->
+    <div class="submit-row">
+        <button type="submit" class="button default" name="action"
+                value="approve_selected"
+                title="Aprovar cotações selecionadas">
+            Aprovar
+        </button>
+
+        <p style="float:right;">
+            <button type="submit" class="button active" name="action"
+                    value="reject_selected"
+                    style="background-color:#c14747;color:#fff"
+                    title="Rejeitar cotações selecionadas">
+                Rejeitar
+            </button>
+        </p>
+    </div>
+    <!-- /barra de ações -->
+{% endblock %}

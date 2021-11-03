@@ -1,0 +1,42 @@
+[
+  {
+    "model": "ifag.source",
+    "pk": 1,
+    "fields": {
+      "name": "JBS",
+      "obs": ""
+    }
+  },
+  {
+    "model": "ifag.source",
+    "pk": 2,
+    "fields": {
+      "name": "Minerva",
+      "obs": ""
+    }
+  },
+  {
+    "model": "ifag.source",
+    "pk": 3,
+    "fields": {
+      "name": "Ceasa-GO",
+      "obs": ""
+    }
+  },
+  {
+    "model": "ifag.source",
+    "pk": 4,
+    "fields": {
+      "name": "Cargill",
+      "obs": ""
+    }
+  },
+  {
+    "model": "ifag.source",
+    "pk": 5,
+    "fields": {
+      "name": "Jo\u00e3o das Couves",
+      "obs": ""
+    }
+  }
+]

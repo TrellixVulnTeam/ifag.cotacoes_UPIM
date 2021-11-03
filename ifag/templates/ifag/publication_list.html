@@ -1,0 +1,37 @@
+{% extends "admin/change_list.html" %}
+{% load i18n admin_urls static admin_list jet_tags propeller ifag_tags %}
+
+{% block title %}Publicar histórico{% endblock %}
+
+{% block result_list %}
+    <!-- lista de resultados-->
+    {% result_list cl %}
+    <style>
+        #result_list tbody td:nth-child(6) {
+            text-align: right;
+        }
+    </style>
+    <!-- /barra de ações -->
+
+    <!-- barra de ações -->
+    <div class="submit-row">
+        <button type="submit" class="button default" name="action"
+                value="release"
+                {% if not history_count %}
+                disabled="disabled"
+                {% endif %}
+                title="Publicar {{ history_count }} para consulta">
+            Publicar {{ history_count }} históricos para consulta
+        </button>
+
+        <p style="float:right;">
+            <button type="submit" class="button active" name="action"
+                    value="delete_selected"
+                    style="background-color:#c14747;color:#fff"
+                    title="Remover publicação">
+                Remover publicação
+            </button>
+        </p>
+    </div>
+    <!-- /barra de ações -->
+{% endblock %}

@@ -1,0 +1,2216 @@
+[
+  {
+    "model": "ifag.city",
+    "pk": 5319,
+    "fields": {
+      "name": "ABADIA DE GOI\u00c1S",
+      "name_ascii": "ABADIA DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5320,
+    "fields": {
+      "name": "ABADI\u00c2NIA",
+      "name_ascii": "ABADIANIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5321,
+    "fields": {
+      "name": "ACRE\u00daNA",
+      "name_ascii": "ACREUNA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5322,
+    "fields": {
+      "name": "ADEL\u00c2NDIA",
+      "name_ascii": "ADELANDIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5323,
+    "fields": {
+      "name": "\u00c1GUA FRIA DE GOI\u00c1S",
+      "name_ascii": "AGUA FRIA DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5324,
+    "fields": {
+      "name": "\u00c1GUA LIMPA",
+      "name_ascii": "AGUA LIMPA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5325,
+    "fields": {
+      "name": "\u00c1GUAS LINDAS DE GOI\u00c1S",
+      "name_ascii": "AGUAS LINDAS DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5326,
+    "fields": {
+      "name": "ALEX\u00c2NIA",
+      "name_ascii": "ALEXANIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5327,
+    "fields": {
+      "name": "ALO\u00c2NDIA",
+      "name_ascii": "ALOANDIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5328,
+    "fields": {
+      "name": "ALTO HORIZONTE",
+      "name_ascii": "ALTO HORIZONTE",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5329,
+    "fields": {
+      "name": "ALTO PARA\u00cdSO DE GOI\u00c1S",
+      "name_ascii": "ALTO PARAISO DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5330,
+    "fields": {
+      "name": "ALVORADA DO NORTE",
+      "name_ascii": "ALVORADA DO NORTE",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5331,
+    "fields": {
+      "name": "AMARALINA",
+      "name_ascii": "AMARALINA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5332,
+    "fields": {
+      "name": "AMERICANO DO BRASIL",
+      "name_ascii": "AMERICANO DO BRASIL",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5333,
+    "fields": {
+      "name": "AMORIN\u00d3POLIS",
+      "name_ascii": "AMORINOPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5334,
+    "fields": {
+      "name": "AN\u00c1POLIS",
+      "name_ascii": "ANAPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5335,
+    "fields": {
+      "name": "ANHANGUERA",
+      "name_ascii": "ANHANGUERA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5336,
+    "fields": {
+      "name": "ANICUNS",
+      "name_ascii": "ANICUNS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5337,
+    "fields": {
+      "name": "APARECIDA DE GOI\u00c2NIA",
+      "name_ascii": "APARECIDA DE GOIANIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5338,
+    "fields": {
+      "name": "APARECIDA DO RIO DOCE",
+      "name_ascii": "APARECIDA DO RIO DOCE",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5339,
+    "fields": {
+      "name": "APOR\u00c9",
+      "name_ascii": "APORE",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5340,
+    "fields": {
+      "name": "ARA\u00c7U",
+      "name_ascii": "ARACU",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5341,
+    "fields": {
+      "name": "ARAGAR\u00c7AS",
+      "name_ascii": "ARAGARCAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5342,
+    "fields": {
+      "name": "ARAGOI\u00c2NIA",
+      "name_ascii": "ARAGOIANIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5343,
+    "fields": {
+      "name": "ARAGUAPAZ",
+      "name_ascii": "ARAGUAPAZ",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5344,
+    "fields": {
+      "name": "AREN\u00d3POLIS",
+      "name_ascii": "ARENOPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5345,
+    "fields": {
+      "name": "ARUAN\u00c3",
+      "name_ascii": "ARUANA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5346,
+    "fields": {
+      "name": "AURIL\u00c2NDIA",
+      "name_ascii": "AURILANDIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5347,
+    "fields": {
+      "name": "AVELIN\u00d3POLIS",
+      "name_ascii": "AVELINOPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5348,
+    "fields": {
+      "name": "BALIZA",
+      "name_ascii": "BALIZA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5349,
+    "fields": {
+      "name": "BARRO ALTO",
+      "name_ascii": "BARRO ALTO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5350,
+    "fields": {
+      "name": "BELA VISTA DE GOI\u00c1S",
+      "name_ascii": "BELA VISTA DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5351,
+    "fields": {
+      "name": "BOM JARDIM DE GOI\u00c1S",
+      "name_ascii": "BOM JARDIM DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5352,
+    "fields": {
+      "name": "BOM JESUS DE GOI\u00c1S",
+      "name_ascii": "BOM JESUS DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5353,
+    "fields": {
+      "name": "BONFIN\u00d3POLIS",
+      "name_ascii": "BONFINOPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5354,
+    "fields": {
+      "name": "BON\u00d3POLIS",
+      "name_ascii": "BONOPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5355,
+    "fields": {
+      "name": "BRAZABRANTES",
+      "name_ascii": "BRAZABRANTES",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5356,
+    "fields": {
+      "name": "BRIT\u00c2NIA",
+      "name_ascii": "BRITANIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5357,
+    "fields": {
+      "name": "BURITI ALEGRE",
+      "name_ascii": "BURITI ALEGRE",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5358,
+    "fields": {
+      "name": "BURITI DE GOI\u00c1S",
+      "name_ascii": "BURITI DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5359,
+    "fields": {
+      "name": "BURITIN\u00d3POLIS",
+      "name_ascii": "BURITINOPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5360,
+    "fields": {
+      "name": "CABECEIRAS",
+      "name_ascii": "CABECEIRAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5361,
+    "fields": {
+      "name": "CACHOEIRA ALTA",
+      "name_ascii": "CACHOEIRA ALTA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5362,
+    "fields": {
+      "name": "CACHOEIRA DE GOI\u00c1S",
+      "name_ascii": "CACHOEIRA DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5363,
+    "fields": {
+      "name": "CACHOEIRA DOURADA",
+      "name_ascii": "CACHOEIRA DOURADA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5364,
+    "fields": {
+      "name": "CA\u00c7U",
+      "name_ascii": "CACU",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5365,
+    "fields": {
+      "name": "CAIAP\u00d4NIA",
+      "name_ascii": "CAIAPONIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5366,
+    "fields": {
+      "name": "CALDAS NOVAS",
+      "name_ascii": "CALDAS NOVAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5367,
+    "fields": {
+      "name": "CALDAZINHA",
+      "name_ascii": "CALDAZINHA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5368,
+    "fields": {
+      "name": "CAMPESTRE DE GOI\u00c1S",
+      "name_ascii": "CAMPESTRE DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5369,
+    "fields": {
+      "name": "CAMPINA\u00c7U",
+      "name_ascii": "CAMPINACU",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5370,
+    "fields": {
+      "name": "CAMPINORTE",
+      "name_ascii": "CAMPINORTE",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5371,
+    "fields": {
+      "name": "CAMPO ALEGRE DE GOI\u00c1S",
+      "name_ascii": "CAMPO ALEGRE DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5372,
+    "fields": {
+      "name": "CAMPO LIMPO DE GOI\u00c1S",
+      "name_ascii": "CAMPO LIMPO DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5373,
+    "fields": {
+      "name": "CAMPOS BELOS",
+      "name_ascii": "CAMPOS BELOS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5374,
+    "fields": {
+      "name": "CAMPOS VERDES",
+      "name_ascii": "CAMPOS VERDES",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5375,
+    "fields": {
+      "name": "CARMO DO RIO VERDE",
+      "name_ascii": "CARMO DO RIO VERDE",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5376,
+    "fields": {
+      "name": "CASTEL\u00c2NDIA",
+      "name_ascii": "CASTELANDIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5377,
+    "fields": {
+      "name": "CATAL\u00c3O",
+      "name_ascii": "CATALAO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5378,
+    "fields": {
+      "name": "CATURA\u00cd",
+      "name_ascii": "CATURAI",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5379,
+    "fields": {
+      "name": "CAVALCANTE",
+      "name_ascii": "CAVALCANTE",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5380,
+    "fields": {
+      "name": "CERES",
+      "name_ascii": "CERES",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5381,
+    "fields": {
+      "name": "CEZARINA",
+      "name_ascii": "CEZARINA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5382,
+    "fields": {
+      "name": "CHAPAD\u00c3O DO C\u00c9U",
+      "name_ascii": "CHAPADAO DO CEU",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5383,
+    "fields": {
+      "name": "CIDADE OCIDENTAL",
+      "name_ascii": "CIDADE OCIDENTAL",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5384,
+    "fields": {
+      "name": "COCALZINHO DE GOI\u00c1S",
+      "name_ascii": "COCALZINHO DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5385,
+    "fields": {
+      "name": "COLINAS DO SUL",
+      "name_ascii": "COLINAS DO SUL",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5386,
+    "fields": {
+      "name": "C\u00d3RREGO DO OURO",
+      "name_ascii": "CORREGO DO OURO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5387,
+    "fields": {
+      "name": "CORUMB\u00c1 DE GOI\u00c1S",
+      "name_ascii": "CORUMBA DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5388,
+    "fields": {
+      "name": "CORUMBA\u00cdBA",
+      "name_ascii": "CORUMBAIBA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5389,
+    "fields": {
+      "name": "CRISTALINA",
+      "name_ascii": "CRISTALINA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5390,
+    "fields": {
+      "name": "CRISTIAN\u00d3POLIS",
+      "name_ascii": "CRISTIANOPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5391,
+    "fields": {
+      "name": "CRIX\u00c1S",
+      "name_ascii": "CRIXAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5392,
+    "fields": {
+      "name": "CROM\u00cdNIA",
+      "name_ascii": "CROMINIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5393,
+    "fields": {
+      "name": "CUMARI",
+      "name_ascii": "CUMARI",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5394,
+    "fields": {
+      "name": "DAMIAN\u00d3POLIS",
+      "name_ascii": "DAMIANOPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5395,
+    "fields": {
+      "name": "DAMOL\u00c2NDIA",
+      "name_ascii": "DAMOLANDIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5396,
+    "fields": {
+      "name": "DAVIN\u00d3POLIS",
+      "name_ascii": "DAVINOPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5397,
+    "fields": {
+      "name": "DIORAMA",
+      "name_ascii": "DIORAMA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5398,
+    "fields": {
+      "name": "DOVERL\u00c2NDIA",
+      "name_ascii": "DOVERLANDIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5399,
+    "fields": {
+      "name": "EDEALINA",
+      "name_ascii": "EDEALINA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5400,
+    "fields": {
+      "name": "ED\u00c9IA",
+      "name_ascii": "EDEIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5401,
+    "fields": {
+      "name": "ESTRELA DO NORTE",
+      "name_ascii": "ESTRELA DO NORTE",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5402,
+    "fields": {
+      "name": "FAINA",
+      "name_ascii": "FAINA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5403,
+    "fields": {
+      "name": "FAZENDA NOVA",
+      "name_ascii": "FAZENDA NOVA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5404,
+    "fields": {
+      "name": "FIRMIN\u00d3POLIS",
+      "name_ascii": "FIRMINOPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5405,
+    "fields": {
+      "name": "FLORES DE GOI\u00c1S",
+      "name_ascii": "FLORES DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5406,
+    "fields": {
+      "name": "FORMOSA",
+      "name_ascii": "FORMOSA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5407,
+    "fields": {
+      "name": "FORMOSO",
+      "name_ascii": "FORMOSO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5408,
+    "fields": {
+      "name": "GAMELEIRA DE GOI\u00c1S",
+      "name_ascii": "GAMELEIRA DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5409,
+    "fields": {
+      "name": "DIVIN\u00d3POLIS DE GOI\u00c1S",
+      "name_ascii": "DIVINOPOLIS DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5410,
+    "fields": {
+      "name": "GOIAN\u00c1POLIS",
+      "name_ascii": "GOIANAPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5411,
+    "fields": {
+      "name": "GOIANDIRA",
+      "name_ascii": "GOIANDIRA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5412,
+    "fields": {
+      "name": "GOIAN\u00c9SIA",
+      "name_ascii": "GOIANESIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5413,
+    "fields": {
+      "name": "GOI\u00c2NIA",
+      "name_ascii": "GOIANIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5414,
+    "fields": {
+      "name": "GOIANIRA",
+      "name_ascii": "GOIANIRA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5415,
+    "fields": {
+      "name": "GOI\u00c1S",
+      "name_ascii": "GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5416,
+    "fields": {
+      "name": "GOIATUBA",
+      "name_ascii": "GOIATUBA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5417,
+    "fields": {
+      "name": "GOUVEL\u00c2NDIA",
+      "name_ascii": "GOUVELANDIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5418,
+    "fields": {
+      "name": "GUAP\u00d3",
+      "name_ascii": "GUAPO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5419,
+    "fields": {
+      "name": "GUARA\u00cdTA",
+      "name_ascii": "GUARAITA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5420,
+    "fields": {
+      "name": "GUARANI DE GOI\u00c1S",
+      "name_ascii": "GUARANI DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5421,
+    "fields": {
+      "name": "GUARINOS",
+      "name_ascii": "GUARINOS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5422,
+    "fields": {
+      "name": "HEITORA\u00cd",
+      "name_ascii": "HEITORAI",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5423,
+    "fields": {
+      "name": "HIDROL\u00c2NDIA",
+      "name_ascii": "HIDROLANDIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5424,
+    "fields": {
+      "name": "HIDROLINA",
+      "name_ascii": "HIDROLINA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5425,
+    "fields": {
+      "name": "IACIARA",
+      "name_ascii": "IACIARA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5426,
+    "fields": {
+      "name": "INACIOL\u00c2NDIA",
+      "name_ascii": "INACIOLANDIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5427,
+    "fields": {
+      "name": "INDIARA",
+      "name_ascii": "INDIARA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5428,
+    "fields": {
+      "name": "INHUMAS",
+      "name_ascii": "INHUMAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5429,
+    "fields": {
+      "name": "IPAMERI",
+      "name_ascii": "IPAMERI",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5430,
+    "fields": {
+      "name": "IPIRANGA DE GOI\u00c1S",
+      "name_ascii": "IPIRANGA DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5431,
+    "fields": {
+      "name": "IPOR\u00c1",
+      "name_ascii": "IPORA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5432,
+    "fields": {
+      "name": "ISRAEL\u00c2NDIA",
+      "name_ascii": "ISRAELANDIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5433,
+    "fields": {
+      "name": "ITABERA\u00cd",
+      "name_ascii": "ITABERAI",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5434,
+    "fields": {
+      "name": "ITAGUARI",
+      "name_ascii": "ITAGUARI",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5435,
+    "fields": {
+      "name": "ITAGUARU",
+      "name_ascii": "ITAGUARU",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5436,
+    "fields": {
+      "name": "ITAJ\u00c1",
+      "name_ascii": "ITAJA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5437,
+    "fields": {
+      "name": "ITAPACI",
+      "name_ascii": "ITAPACI",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5438,
+    "fields": {
+      "name": "ITAPIRAPU\u00c3",
+      "name_ascii": "ITAPIRAPUA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5439,
+    "fields": {
+      "name": "ITAPURANGA",
+      "name_ascii": "ITAPURANGA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5440,
+    "fields": {
+      "name": "ITARUM\u00c3",
+      "name_ascii": "ITARUMA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5441,
+    "fields": {
+      "name": "ITAU\u00c7U",
+      "name_ascii": "ITAUCU",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5442,
+    "fields": {
+      "name": "ITUMBIARA",
+      "name_ascii": "ITUMBIARA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5443,
+    "fields": {
+      "name": "IVOL\u00c2NDIA",
+      "name_ascii": "IVOLANDIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5444,
+    "fields": {
+      "name": "JANDAIA",
+      "name_ascii": "JANDAIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5445,
+    "fields": {
+      "name": "JARAGU\u00c1",
+      "name_ascii": "JARAGUA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5446,
+    "fields": {
+      "name": "JATA\u00cd",
+      "name_ascii": "JATAI",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5447,
+    "fields": {
+      "name": "JAUPACI",
+      "name_ascii": "JAUPACI",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5448,
+    "fields": {
+      "name": "JES\u00daPOLIS",
+      "name_ascii": "JESUPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5449,
+    "fields": {
+      "name": "JOVI\u00c2NIA",
+      "name_ascii": "JOVIANIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5450,
+    "fields": {
+      "name": "JUSSARA",
+      "name_ascii": "JUSSARA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5451,
+    "fields": {
+      "name": "LAGOA SANTA",
+      "name_ascii": "LAGOA SANTA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5452,
+    "fields": {
+      "name": "LEOPOLDO DE BULH\u00d5ES",
+      "name_ascii": "LEOPOLDO DE BULHOES",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5453,
+    "fields": {
+      "name": "LUZI\u00c2NIA",
+      "name_ascii": "LUZIANIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5454,
+    "fields": {
+      "name": "MAIRIPOTABA",
+      "name_ascii": "MAIRIPOTABA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5455,
+    "fields": {
+      "name": "MAMBA\u00cd",
+      "name_ascii": "MAMBAI",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5456,
+    "fields": {
+      "name": "MARA ROSA",
+      "name_ascii": "MARA ROSA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5457,
+    "fields": {
+      "name": "MARZAG\u00c3O",
+      "name_ascii": "MARZAGAO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5458,
+    "fields": {
+      "name": "MATRINCH\u00c3",
+      "name_ascii": "MATRINCHA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5459,
+    "fields": {
+      "name": "MAURIL\u00c2NDIA",
+      "name_ascii": "MAURILANDIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5460,
+    "fields": {
+      "name": "MIMOSO DE GOI\u00c1S",
+      "name_ascii": "MIMOSO DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5461,
+    "fields": {
+      "name": "MINA\u00c7U",
+      "name_ascii": "MINACU",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5462,
+    "fields": {
+      "name": "MINEIROS",
+      "name_ascii": "MINEIROS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5463,
+    "fields": {
+      "name": "MOIPOR\u00c1",
+      "name_ascii": "MOIPORA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5464,
+    "fields": {
+      "name": "MONTE ALEGRE DE GOI\u00c1S",
+      "name_ascii": "MONTE ALEGRE DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5465,
+    "fields": {
+      "name": "MONTES CLAROS DE GOI\u00c1S",
+      "name_ascii": "MONTES CLAROS DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5466,
+    "fields": {
+      "name": "MONTIVIDIU",
+      "name_ascii": "MONTIVIDIU",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5467,
+    "fields": {
+      "name": "MONTIVIDIU DO NORTE",
+      "name_ascii": "MONTIVIDIU DO NORTE",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5468,
+    "fields": {
+      "name": "MORRINHOS",
+      "name_ascii": "MORRINHOS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5469,
+    "fields": {
+      "name": "MORRO AGUDO DE GOI\u00c1S",
+      "name_ascii": "MORRO AGUDO DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5470,
+    "fields": {
+      "name": "MOSS\u00c2MEDES",
+      "name_ascii": "MOSSAMEDES",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5471,
+    "fields": {
+      "name": "MOZARL\u00c2NDIA",
+      "name_ascii": "MOZARLANDIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5472,
+    "fields": {
+      "name": "MUNDO NOVO",
+      "name_ascii": "MUNDO NOVO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5473,
+    "fields": {
+      "name": "MUTUN\u00d3POLIS",
+      "name_ascii": "MUTUNOPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5474,
+    "fields": {
+      "name": "NAZ\u00c1RIO",
+      "name_ascii": "NAZARIO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5475,
+    "fields": {
+      "name": "NER\u00d3POLIS",
+      "name_ascii": "NEROPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5476,
+    "fields": {
+      "name": "NIQUEL\u00c2NDIA",
+      "name_ascii": "NIQUELANDIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5477,
+    "fields": {
+      "name": "NOVA AM\u00c9RICA",
+      "name_ascii": "NOVA AMERICA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5478,
+    "fields": {
+      "name": "NOVA AURORA",
+      "name_ascii": "NOVA AURORA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5479,
+    "fields": {
+      "name": "NOVA CRIX\u00c1S",
+      "name_ascii": "NOVA CRIXAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5480,
+    "fields": {
+      "name": "NOVA GL\u00d3RIA",
+      "name_ascii": "NOVA GLORIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5481,
+    "fields": {
+      "name": "NOVA IGUA\u00c7U DE GOI\u00c1S",
+      "name_ascii": "NOVA IGUACU DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5482,
+    "fields": {
+      "name": "NOVA ROMA",
+      "name_ascii": "NOVA ROMA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5483,
+    "fields": {
+      "name": "NOVA VENEZA",
+      "name_ascii": "NOVA VENEZA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5484,
+    "fields": {
+      "name": "NOVO BRASIL",
+      "name_ascii": "NOVO BRASIL",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5485,
+    "fields": {
+      "name": "NOVO GAMA",
+      "name_ascii": "NOVO GAMA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5486,
+    "fields": {
+      "name": "NOVO PLANALTO",
+      "name_ascii": "NOVO PLANALTO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5487,
+    "fields": {
+      "name": "ORIZONA",
+      "name_ascii": "ORIZONA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5488,
+    "fields": {
+      "name": "OURO VERDE DE GOI\u00c1S",
+      "name_ascii": "OURO VERDE DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5489,
+    "fields": {
+      "name": "OUVIDOR",
+      "name_ascii": "OUVIDOR",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5490,
+    "fields": {
+      "name": "PADRE BERNARDO",
+      "name_ascii": "PADRE BERNARDO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5491,
+    "fields": {
+      "name": "PALESTINA DE GOI\u00c1S",
+      "name_ascii": "PALESTINA DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5492,
+    "fields": {
+      "name": "PALMEIRAS DE GOI\u00c1S",
+      "name_ascii": "PALMEIRAS DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5493,
+    "fields": {
+      "name": "PALMELO",
+      "name_ascii": "PALMELO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5494,
+    "fields": {
+      "name": "PALMIN\u00d3POLIS",
+      "name_ascii": "PALMINOPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5495,
+    "fields": {
+      "name": "PANAM\u00c1",
+      "name_ascii": "PANAMA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5496,
+    "fields": {
+      "name": "PARANAIGUARA",
+      "name_ascii": "PARANAIGUARA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5497,
+    "fields": {
+      "name": "PARA\u00daNA",
+      "name_ascii": "PARAUNA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5498,
+    "fields": {
+      "name": "PEROL\u00c2NDIA",
+      "name_ascii": "PEROLANDIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5499,
+    "fields": {
+      "name": "PETROLINA DE GOI\u00c1S",
+      "name_ascii": "PETROLINA DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5500,
+    "fields": {
+      "name": "PILAR DE GOI\u00c1S",
+      "name_ascii": "PILAR DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5501,
+    "fields": {
+      "name": "PIRACANJUBA",
+      "name_ascii": "PIRACANJUBA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5502,
+    "fields": {
+      "name": "PIRANHAS",
+      "name_ascii": "PIRANHAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5503,
+    "fields": {
+      "name": "PIREN\u00d3POLIS",
+      "name_ascii": "PIRENOPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5504,
+    "fields": {
+      "name": "PIRES DO RIO",
+      "name_ascii": "PIRES DO RIO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5505,
+    "fields": {
+      "name": "PLANALTINA",
+      "name_ascii": "PLANALTINA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5506,
+    "fields": {
+      "name": "PONTALINA",
+      "name_ascii": "PONTALINA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5507,
+    "fields": {
+      "name": "PORANGATU",
+      "name_ascii": "PORANGATU",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5508,
+    "fields": {
+      "name": "PORTEIR\u00c3O",
+      "name_ascii": "PORTEIRAO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5509,
+    "fields": {
+      "name": "PORTEL\u00c2NDIA",
+      "name_ascii": "PORTELANDIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5510,
+    "fields": {
+      "name": "POSSE",
+      "name_ascii": "POSSE",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5511,
+    "fields": {
+      "name": "PROFESSOR JAMIL",
+      "name_ascii": "PROFESSOR JAMIL",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5512,
+    "fields": {
+      "name": "QUIRIN\u00d3POLIS",
+      "name_ascii": "QUIRINOPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5513,
+    "fields": {
+      "name": "RIALMA",
+      "name_ascii": "RIALMA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5514,
+    "fields": {
+      "name": "RIAN\u00c1POLIS",
+      "name_ascii": "RIANAPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5515,
+    "fields": {
+      "name": "RIO QUENTE",
+      "name_ascii": "RIO QUENTE",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5516,
+    "fields": {
+      "name": "RIO VERDE",
+      "name_ascii": "RIO VERDE",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5517,
+    "fields": {
+      "name": "RUBIATABA",
+      "name_ascii": "RUBIATABA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5518,
+    "fields": {
+      "name": "SANCLERL\u00c2NDIA",
+      "name_ascii": "SANCLERLANDIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5519,
+    "fields": {
+      "name": "SANTA B\u00c1RBARA DE GOI\u00c1S",
+      "name_ascii": "SANTA BARBARA DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5520,
+    "fields": {
+      "name": "SANTA CRUZ DE GOI\u00c1S",
+      "name_ascii": "SANTA CRUZ DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5521,
+    "fields": {
+      "name": "SANTA F\u00c9 DE GOI\u00c1S",
+      "name_ascii": "SANTA FE DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5522,
+    "fields": {
+      "name": "SANTA HELENA DE GOI\u00c1S",
+      "name_ascii": "SANTA HELENA DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5523,
+    "fields": {
+      "name": "SANTA ISABEL",
+      "name_ascii": "SANTA ISABEL",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5524,
+    "fields": {
+      "name": "SANTA RITA DO ARAGUAIA",
+      "name_ascii": "SANTA RITA DO ARAGUAIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5525,
+    "fields": {
+      "name": "SANTA RITA DO NOVO DESTINO",
+      "name_ascii": "SANTA RITA DO NOVO DESTINO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5526,
+    "fields": {
+      "name": "SANTA ROSA DE GOI\u00c1S",
+      "name_ascii": "SANTA ROSA DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5527,
+    "fields": {
+      "name": "SANTA TEREZA DE GOI\u00c1S",
+      "name_ascii": "SANTA TEREZA DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5528,
+    "fields": {
+      "name": "SANTA TEREZINHA DE GOI\u00c1S",
+      "name_ascii": "SANTA TEREZINHA DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5529,
+    "fields": {
+      "name": "SANTO ANT\u00d4NIO DA BARRA",
+      "name_ascii": "SANTO ANTONIO DA BARRA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5530,
+    "fields": {
+      "name": "SANTO ANT\u00d4NIO DE GOI\u00c1S",
+      "name_ascii": "SANTO ANTONIO DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5531,
+    "fields": {
+      "name": "SANTO ANT\u00d4NIO DO DESCOBERTO",
+      "name_ascii": "SANTO ANTONIO DO DESCOBERTO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5532,
+    "fields": {
+      "name": "S\u00c3O DOMINGOS",
+      "name_ascii": "SAO DOMINGOS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5533,
+    "fields": {
+      "name": "S\u00c3O FRANCISCO DE GOI\u00c1S",
+      "name_ascii": "SAO FRANCISCO DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5534,
+    "fields": {
+      "name": "S\u00c3O JO\u00c3O DALIAN\u00c7A",
+      "name_ascii": "SAO JOAO DALIANCA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5535,
+    "fields": {
+      "name": "S\u00c3O JO\u00c3O DA PARA\u00daNA",
+      "name_ascii": "SAO JOAO DA PARAUNA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5536,
+    "fields": {
+      "name": "S\u00c3O LU\u00cdS DE MONTES BELOS",
+      "name_ascii": "SAO LUIS DE MONTES BELOS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5537,
+    "fields": {
+      "name": "S\u00c3O LU\u00cdZ DO NORTE",
+      "name_ascii": "SAO LUIZ DO NORTE",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5538,
+    "fields": {
+      "name": "S\u00c3O MIGUEL DO ARAGUAIA",
+      "name_ascii": "SAO MIGUEL DO ARAGUAIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5539,
+    "fields": {
+      "name": "S\u00c3O MIGUEL DO PASSA QUATRO",
+      "name_ascii": "SAO MIGUEL DO PASSA QUATRO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5540,
+    "fields": {
+      "name": "S\u00c3O PATR\u00cdCIO",
+      "name_ascii": "SAO PATRICIO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5541,
+    "fields": {
+      "name": "S\u00c3O SIM\u00c3O",
+      "name_ascii": "SAO SIMAO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5542,
+    "fields": {
+      "name": "SENADOR CANEDO",
+      "name_ascii": "SENADOR CANEDO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5543,
+    "fields": {
+      "name": "SERRAN\u00d3POLIS",
+      "name_ascii": "SERRANOPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5544,
+    "fields": {
+      "name": "SILV\u00c2NIA",
+      "name_ascii": "SILVANIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5545,
+    "fields": {
+      "name": "SIMOL\u00c2NDIA",
+      "name_ascii": "SIMOLANDIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5546,
+    "fields": {
+      "name": "S\u00cdTIO DABADIA",
+      "name_ascii": "SITIO DABADIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5547,
+    "fields": {
+      "name": "TAQUARAL DE GOI\u00c1S",
+      "name_ascii": "TAQUARAL DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5548,
+    "fields": {
+      "name": "TERESINA DE GOI\u00c1S",
+      "name_ascii": "TERESINA DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5549,
+    "fields": {
+      "name": "TEREZ\u00d3POLIS DE GOI\u00c1S",
+      "name_ascii": "TEREZOPOLIS DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5550,
+    "fields": {
+      "name": "TR\u00caS RANCHOS",
+      "name_ascii": "TRES RANCHOS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5551,
+    "fields": {
+      "name": "TRINDADE",
+      "name_ascii": "TRINDADE",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5552,
+    "fields": {
+      "name": "TROMBAS",
+      "name_ascii": "TROMBAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5553,
+    "fields": {
+      "name": "TURV\u00c2NIA",
+      "name_ascii": "TURVANIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5554,
+    "fields": {
+      "name": "TURVEL\u00c2NDIA",
+      "name_ascii": "TURVELANDIA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5555,
+    "fields": {
+      "name": "UIRAPURU",
+      "name_ascii": "UIRAPURU",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5556,
+    "fields": {
+      "name": "URUA\u00c7U",
+      "name_ascii": "URUACU",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5557,
+    "fields": {
+      "name": "URUANA",
+      "name_ascii": "URUANA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5558,
+    "fields": {
+      "name": "URUTA\u00cd",
+      "name_ascii": "URUTAI",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5559,
+    "fields": {
+      "name": "VALPARA\u00cdSO DE GOI\u00c1S",
+      "name_ascii": "VALPARAISO DE GOIAS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5560,
+    "fields": {
+      "name": "VARJ\u00c3O",
+      "name_ascii": "VARJAO",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5561,
+    "fields": {
+      "name": "VIAN\u00d3POLIS",
+      "name_ascii": "VIANOPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5562,
+    "fields": {
+      "name": "VICENTIN\u00d3POLIS",
+      "name_ascii": "VICENTINOPOLIS",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5563,
+    "fields": {
+      "name": "VILA BOA",
+      "name_ascii": "VILA BOA",
+      "uf": "GO"
+    }
+  },
+  {
+    "model": "ifag.city",
+    "pk": 5564,
+    "fields": {
+      "name": "VILA PROP\u00cdCIO",
+      "name_ascii": "VILA PROPICIO",
+      "uf": "GO"
+    }
+  }
+]

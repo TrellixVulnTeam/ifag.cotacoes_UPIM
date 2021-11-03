@@ -1,0 +1,68 @@
+[
+  {
+    "model": "ifag.history",
+    "pk": 1,
+    "fields": {
+      "indicator": 1,
+      "city": 5516,
+      "date": "2017-09-04",
+      "value": "62.000",
+      "create_on": "2017-09-12T16:15:01.974"
+    }
+  },
+  {
+    "model": "ifag.history",
+    "pk": 2,
+    "fields": {
+      "indicator": 1,
+      "city": 5446,
+      "date": "2017-09-04",
+      "value": "52.000",
+      "create_on": "2017-09-12T16:15:01.974"
+    }
+  },
+  {
+    "model": "ifag.history",
+    "pk": 3,
+    "fields": {
+      "indicator": 2,
+      "city": 5516,
+      "date": "2017-09-04",
+      "value": "60.000",
+      "create_on": "2017-09-12T16:15:01.980"
+    }
+  },
+  {
+    "model": "ifag.history",
+    "pk": 4,
+    "fields": {
+      "indicator": 2,
+      "city": 5446,
+      "date": "2017-09-04",
+      "value": "50.000",
+      "create_on": "2017-09-12T16:15:01.980"
+    }
+  },
+  {
+    "model": "ifag.history",
+    "pk": 5,
+    "fields": {
+      "indicator": 2,
+      "city": 5413,
+      "date": "2017-09-04",
+      "value": "50.000",
+      "create_on": "2017-09-12T16:15:01.980"
+    }
+  },
+  {
+    "model": "ifag.history",
+    "pk": 6,
+    "fields": {
+      "indicator": 2,
+      "city": 5492,
+      "date": "2017-09-04",
+      "value": "50.000",
+      "create_on": "2017-09-12T16:15:01.980"
+    }
+  }
+]

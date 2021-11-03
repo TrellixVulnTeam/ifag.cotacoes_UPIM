@@ -1,0 +1,101 @@
+[
+  {
+    "model": "ifag.sourceindicatorcity",
+    "pk": 1,
+    "fields": {
+      "source": 2,
+      "indicator": 9,
+      "city": 5492
+    }
+  },
+  {
+    "model": "ifag.sourceindicatorcity",
+    "pk": 2,
+    "fields": {
+      "source": 1,
+      "indicator": 9,
+      "city": 5542
+    }
+  },
+  {
+    "model": "ifag.sourceindicatorcity",
+    "pk": 3,
+    "fields": {
+      "source": 1,
+      "indicator": 9,
+      "city": 5462
+    }
+  },
+  {
+    "model": "ifag.sourceindicatorcity",
+    "pk": 4,
+    "fields": {
+      "source": 1,
+      "indicator": 9,
+      "city": 5413
+    }
+  },
+  {
+    "model": "ifag.sourceindicatorcity",
+    "pk": 5,
+    "fields": {
+      "source": 4,
+      "indicator": 1,
+      "city": 5516
+    }
+  },
+  {
+    "model": "ifag.sourceindicatorcity",
+    "pk": 6,
+    "fields": {
+      "source": 4,
+      "indicator": 2,
+      "city": 5516
+    }
+  },
+  {
+    "model": "ifag.sourceindicatorcity",
+    "pk": 7,
+    "fields": {
+      "source": 4,
+      "indicator": 1,
+      "city": 5446
+    }
+  },
+  {
+    "model": "ifag.sourceindicatorcity",
+    "pk": 8,
+    "fields": {
+      "source": 4,
+      "indicator": 2,
+      "city": 5446
+    }
+  },
+  {
+    "model": "ifag.sourceindicatorcity",
+    "pk": 10,
+    "fields": {
+      "source": 3,
+      "indicator": 7,
+      "city": 5413
+    }
+  },
+  {
+    "model": "ifag.sourceindicatorcity",
+    "pk": 11,
+    "fields": {
+      "source": 3,
+      "indicator": 8,
+      "city": 5413
+    }
+  },
+  {
+    "model": "ifag.sourceindicatorcity",
+    "pk": 18,
+    "fields": {
+      "source": 5,
+      "indicator": 2,
+      "city": 5446
+    }
+  }
+]

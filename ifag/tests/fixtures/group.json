@@ -1,0 +1,23 @@
+[
+  {
+    "model": "ifag.group",
+    "pk": 1,
+    "fields": {
+      "name": "Soja"
+    }
+  },
+  {
+    "model": "ifag.group",
+    "pk": 2,
+    "fields": {
+      "name": "Hortali\u00e7as"
+    }
+  },
+  {
+    "model": "ifag.group",
+    "pk": 3,
+    "fields": {
+      "name": "Reposi\u00e7\u00e3o - Mesti\u00e7o F\u00eamea"
+    }
+  }
+]

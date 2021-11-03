@@ -1,0 +1,100 @@
+[
+  {
+    "model": "ifag.quotation",
+    "pk": 1,
+    "fields": {
+      "source": 4,
+      "indicator": 4,
+      "city": 5446,
+      "date": "2017-09-01",
+      "value": "49.000",
+      "create_on": "2017-09-01T10:23:47.976",
+      "status": "approved",
+      "calculated": false
+    }
+  },
+  {
+    "model": "ifag.quotation",
+    "pk": 2,
+    "fields": {
+      "source": 4,
+      "indicator": 5,
+      "city": 5446,
+      "date": "2017-09-01",
+      "value": "50.000",
+      "create_on": "2017-09-01T10:23:54.822",
+      "status": "approved",
+      "calculated": false
+    }
+  },
+  {
+    "model": "ifag.quotation",
+    "pk": 3,
+    "fields": {
+      "source": 5,
+      "indicator": 5,
+      "city": 5446,
+      "date": "2017-09-01",
+      "value": "60.000",
+      "create_on": "2017-09-01T10:24:04.394",
+      "status": "approved",
+      "calculated": false
+    }
+  },
+  {
+    "model": "ifag.quotation",
+    "pk": 4,
+    "fields": {
+      "source": 4,
+      "indicator": 5,
+      "city": 5516,
+      "date": "2017-09-01",
+      "value": "80.000",
+      "create_on": "2017-09-01T10:27:13.884",
+      "status": "approved",
+      "calculated": false
+    }
+  },
+  {
+    "model": "ifag.quotation",
+    "pk": 5,
+    "fields": {
+      "source": 4,
+      "indicator": 2,
+      "city": 5446,
+      "date": "2017-09-02",
+      "value": "52.000",
+      "create_on": "2017-09-02T10:37:39.208",
+      "status": "approved",
+      "calculated": false
+    }
+  },
+  {
+    "model": "ifag.quotation",
+    "pk": 6,
+    "fields": {
+      "source": 5,
+      "indicator": 2,
+      "city": 5446,
+      "date": "2017-09-02",
+      "value": "56.000",
+      "create_on": "2017-09-02T10:37:42.749",
+      "status": "waiting",
+      "calculated": false
+    }
+  },
+   {
+    "model": "ifag.quotation",
+    "pk": 7,
+    "fields": {
+      "source": 4,
+      "indicator": 2,
+      "city": 5446,
+      "date": "2017-09-03",
+      "value": "99.999",
+      "create_on": "2017-09-02T10:37:39.208",
+      "status": "rejected",
+      "calculated": false
+    }
+  }
+]
